@@ -1,0 +1,47 @@
+.hidden {
+  overflow: hidden;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.componentcontainer {
+  height: 100%;
+}
+
+.componentcontainer header {
+  text-align: center;
+  font-size: 40px;
+}
+
+.componentcontainer2 {
+  position: relative;
+  margin-top: 10%;
+}
+
+.componentcontainer2 header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.component2container {
+  max-width: 100%;
+  margin-left: 40px;
+  margin-right: 40px;
+  height: 100%;
+}
+
+.component2container header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.img-check {
+  padding: 20px;
+}

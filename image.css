@@ -1,0 +1,26 @@
+body {
+  overflow-x: hidden;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  transform-origin: left;
+  object-fit: cover;
+}
+
+.mask {
+  visibility: hidden;
+  position: relative;
+  width: 50%;
+  height: 50%;
+  overflow: hidden;
+}
+
+.mask1 {
+  visibility: hidden;
+  position: relative;
+  width: 50%;
+  height: 50%;
+  overflow: hidden;
+}
